@@ -21,7 +21,7 @@ This project focuses on analyzing and optimizing inventory management to enhance
 14. Total Revenue by Category.
 
 
-1. Category-Wise Inventory Summary.
+   ## Category-Wise Inventory Summary.
 ```sql
 SELECT Category, 
        SUM(Inventory_Level) AS Total_Inventory, 
