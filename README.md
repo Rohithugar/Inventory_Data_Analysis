@@ -21,7 +21,8 @@ This project focuses on analyzing and optimizing inventory management to enhance
 14. Total Revenue by Category.
 
 ## The problem it solves is 
-inefficient inventory management, which can lead to overstocking, stockouts, and inaccurate demand forecasting.
+
+Inefficient inventory management, which can lead to overstocking, stockouts, and inaccurate demand forecasting.
 
 This project aims to:
 
