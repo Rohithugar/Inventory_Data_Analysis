@@ -44,15 +44,3 @@ while slow-moving products could benefit from promotions. Discounts show a small
 2. Focus on Slow-Moving Products: Implement targeted promotions and discounts for slow-moving products to clear excess inventory and improve turnover.
 3. Adjust Seasonal Stocking: Plan inventory according to seasonal trends, ensuring that stock levels are sufficient for peak seasons like Autumn and Winter.
 4. Monitor Competitor Pricing: Regularly compare your pricing with competitors and adjust discounts or promotions to remain competitive without sacrificing profitability
-
-
-
-
-
-
-
-
-
-
-
-6. 
