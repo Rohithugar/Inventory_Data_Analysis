@@ -6,12 +6,12 @@ This project focuses on analyzing and optimizing inventory management to enhance
 
 ## Objectives 
 
-1.Category-Wise Inventory Summary
-2.Category-Wise Inventory to sale ratio
-3.Regional Inventory Insights
-4.Monthly sales trends
-5.Identify Fast-Moving Products
-6.Identify Slow-Moving Products
+1.Category-Wise Inventory Summary.
+2.Category-Wise Inventory to sale ratio.
+3.Regional Inventory Insights.
+4.Monthly sales trends.
+5.Identify Fast-Moving Products.
+6.Identify Slow-Moving Products.
 7.Overstock Analysis
 8.Stock out Risk Analysis
 9.Seasonal Trends
